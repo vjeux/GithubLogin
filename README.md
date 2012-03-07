@@ -1,0 +1,1 @@
+See the [blog post](http://blog.vjeux.com/2012/javascript/github-oauth-login-browser-side.html) for explanation.
